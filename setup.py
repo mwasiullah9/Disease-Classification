@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Disease-Classification"
 AUTHOR_USER_NAME = "mwasiullah9"
-SRC_REPO = "cnnClassifier"
+SRC_REPO = "srccnnClassifier"
 AUTHOR_EMAIL = "mwasiullah9@gmail.com"
 
 
